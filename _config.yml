@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Kurt Kaiser
 locale:           en_US
-url:              
+url:              www.kurtkaiser.us
 
 
 # Jekyll configuration
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Kurt Kaiser
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 

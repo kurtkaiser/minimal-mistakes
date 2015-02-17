@@ -2,7 +2,7 @@
 layout: post
 title: A Simple Start to Google Classroom
 category: techyeslogy
-tags: [classroom, education-technology]
+tags: [classroom, education-technology, google-classroom]
 ---
 
 ##imple step by step on getting started.

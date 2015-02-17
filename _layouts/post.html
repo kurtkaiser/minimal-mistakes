@@ -3,12 +3,12 @@
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <!--<![endif]-->
-{% assign post = post %}
+{% assign post = page %}
 <head>
 {% include _head.html %}
 </head>
 
-<body class="post">
+<body class="page" class="post">
 
 {% include _browser-upgrade.html %}
 
@@ -79,7 +79,7 @@
             {% assign tags_content = '' %}
         {% endif %}
         <div>
-        <p>Posted {{ category_content }}{{ tags_content }} !!!!!</p>
+        <p>Posted {{ category_content }}{{ tags_content }} !</p>
         </div>
       
         {% if page.share != false %}{% include _social-share.html %}{% endif %}

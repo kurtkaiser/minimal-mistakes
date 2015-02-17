@@ -41,7 +41,7 @@
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
     </div><!--/ .headline-wrap -->
-    <div class="article-wrap">
+    <div class="article-wrap" id="post-content">
       {{ content }}
       <hr />
       <footer role="contentinfo">
@@ -53,14 +53,16 @@
                 {% endif %}
             {% endfor %}
             {% if category %}
-                {% capture category_content %} under <span class="label" style="background-color:{{ category.color }}"><a href="/blog/category/{{ category.slug }}/">{{ category.name }}</a></span>{% endcapture %}
+                {% capture category_content %} under <span class="label" style="background-color:{{ category.color }}">
+                <a href="/blog/category/{{ category.slug }}/">{{ category.name }}</a></span>{% endcapture %}
             {% endif %}
         {% else %}
             {% assign category_content = '' %}
         {% endif %}
 
         {% if post.tags.size > 0 %}
-            {% capture tags_content %} with tags{% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+            {% capture tags_content %} with tags{% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}
+            <i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
             {% for post_tag in post.tags %}
                 {% for data_tag in site.data.tags %}
                     {% if data_tag.slug == post_tag %}
@@ -68,7 +70,8 @@
                     {% endif %}
                 {% endfor %}
                 {% if tag %}
-                    {% capture tags_content_temp %}{{ tags_content }}<a href="/blog/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+                    {% capture tags_content_temp %}{{ tags_content }}<a href="/blog/tag/{{ tag.slug }}/">{{ tag.name }}</a>
+                    {% if forloop.last == false %}, {% endif %}{% endcapture %}
                     {% assign tags_content = tags_content_temp %}
                 {% endif %}
             {% endfor %}

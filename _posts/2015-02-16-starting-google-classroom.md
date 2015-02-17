@@ -4,7 +4,7 @@ title: A Simple Start to Google Classroom
 excerpt: "Google Classroom is a powerful tool for teachers. Not even a year old yet, its growth has been exponential due to its versatility."
 modified: 2015-02-16
 category: techyeslogy
-tags: [classroom, education-technology, google-classroom]
+tags: [classroom, education-technology, google-classroom, classroom]
 comments: true
 image:
   feature: sample-image-5.jpg

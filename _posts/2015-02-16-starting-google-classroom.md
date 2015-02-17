@@ -1,15 +1,8 @@
 ---
 layout: post
 title: A Simple Start to Google Classroom
-excerpt: "Google Classroom is a powerful tool for teachers. Not even a year old yet, its growth has been exponential due to its versatility."
-modified: 2015-02-16
 category: techyeslogy
-tags: [classroom]
-comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+tags: [google-classroom, education-technology]
 ---
 
 ##Simple step by step on getting started.

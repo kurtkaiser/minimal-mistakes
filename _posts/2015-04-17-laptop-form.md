@@ -39,16 +39,6 @@ Laptop Res
 <span class="ss-choice-label">2</span>
 </label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1124001411" value="3" id="group_1124001411_3" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">3</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1124001411" value="4" id="group_1124001411_4" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
-<span class="ss-choice-label">4</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1124001411" value="5" id="group_1124001411_5" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
-<span class="ss-choice-label">5</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1124001411" value="6" id="group_1124001411_6" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
-<span class="ss-choice-label">6</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1124001411" value="7" id="group_1124001411_7" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
-<span class="ss-choice-label">7</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1124001411" value="8" id="group_1124001411_8" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
-<span class="ss-choice-label">8</span>
 </label></li></ul>
 <div class="error-message" id="1682313711_errorMessage"></div>
 <div class="required-message">This is a required question</div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">

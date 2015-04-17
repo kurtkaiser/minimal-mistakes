@@ -11,3 +11,4 @@ This theme supports **link posts**, made famous by John Gruber. To use, just add
 height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 > And this i
+2011-03-10-sample-post.md

@@ -10,7 +10,7 @@ share: true
 <div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
 <label class="ss-q-item-label" for="entry_1599389208"><div class="ss-q-title">First name: 
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+</div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.1599389208" value="" class="ss-q-short" id="entry_1599389208" dir="auto" aria-label="First name:   " aria-required="true" required="" title="">
 <div class="error-message" id="1007954879_errorMessage"></div>
@@ -25,7 +25,7 @@ share: true
 <div dir="ltr" class="ss-item ss-item-required ss-checkbox"><div class="ss-form-entry">
 <label class="ss-q-item-label" for="entry_1682313711"><div class="ss-q-title">Laptop cart(s):
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+</div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
 <ul class="ss-choices ss-choices-required" role="group" aria-label="Laptop cart(s):  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline"><input type="checkbox" name="entry.1124001411" value="1" id="group_1124001411_1" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
@@ -40,14 +40,14 @@ share: true
 <div dir="ltr" class="ss-item ss-item-required ss-date"><div class="ss-form-entry">
 <label class="ss-q-item-label" for="entry_488385253"><div class="ss-q-title">Start date:
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+</div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="date" name="entry.488385253" value="" class="ss-q-date" dir="auto" id="entry_488385253" aria-label="Start date:  " aria-required="true" required="">
 </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="ltr" class="ss-item ss-item-required ss-date"><div class="ss-form-entry">
 <label class="ss-q-item-label" for="entry_201653070"><div class="ss-q-title">End date:
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+</div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="date" name="entry.201653070" value="" class="ss-q-date" dir="auto" id="entry_201653070" aria-label="End date:  " aria-required="true" required=""></div></div></div>
 <input type="hidden" name="draftResponse" value="[,,&quot;7162224230339241445&quot;]

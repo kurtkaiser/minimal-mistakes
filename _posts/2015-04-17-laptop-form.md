@@ -33,9 +33,9 @@ Laptop Res
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
-<ul class="ss-choices ss-choices-required" role="group" aria-label="Laptop cart(s):  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1124001411" value="1" id="group_1124001411_1" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+<ul class="ss-choices ss-choices-required" role="group" aria-label="Laptop cart(s):  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline"><input type="checkbox" name="entry.1124001411" value="1" id="group_1124001411_1" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">1</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1124001411" value="2" id="group_1124001411_2" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline"><input type="checkbox" name="entry.1124001411" value="2" id="group_1124001411_2" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">2</span>
 </label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1124001411" value="3" id="group_1124001411_3" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">3</span>

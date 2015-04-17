@@ -5,9 +5,6 @@ excerpt: "Experimenting with Google's scripting tools."
 tags: [google, javascript]
 share: true
 ---
-
-Laptop Res
-
 <form action="https://docs.google.com/a/roundrockisd.org/forms/d/1r6F1uqhD_2PqmFZLHedntRtkftF-BFoeB2orTPSMELU/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
 <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">

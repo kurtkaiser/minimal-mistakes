@@ -64,4 +64,7 @@ Send me a copy of my responses.</label></div>
 </tr></tbody></table></div></ol></form>
 
 <br>
+Hello, world!
+<input type="button" value="Close"
+  onclick="google.script.host.close()" />
 End of html.
